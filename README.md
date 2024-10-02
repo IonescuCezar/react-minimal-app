@@ -5,4 +5,4 @@ Followed courses from YouTube channel **The Net Ninja**, playlist **Full Modern 
 
 Commands to run the project: <br />
 **npm run start** -> Start the app <br />
-**npx json-server --watch db/db.json --port {number}** -> Start Json Server (to have a form of "persistant" data)
+**npx json-server --watch db/db.json --port {number}** -> Start Json Server (to have a form of "persistent" data)
